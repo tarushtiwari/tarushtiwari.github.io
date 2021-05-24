@@ -1,0 +1,14 @@
+---
+title: "Interplay of coherence and interaction in light propagation through one-dimensional open QED lattices"
+collection: publications
+permalink: /publication/2020-10-28-Interplay-of-coherence-and-interaction-in-light-propagation-through-1D-open-QED-lattices
+excerpt: 'This paper is about propagation of light through different qubit lattices.'
+date: 2020-10-28
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2010.14935'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+This paper is about propagation of light through different qubit lattices.
+
+[Download paper here](https://arxiv.org/abs/2010.14935)
+
