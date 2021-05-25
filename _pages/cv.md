@@ -29,7 +29,7 @@ Research experience
 ======
 * <strong>PROJECT|</strong> *Steady-state photon transport in QED lattices.*
 
-Supervisor: Dr. Rajeev Singh, IIT (BHU), Varanasi (May 2019- May 2020)
+	Supervisor: Dr. Rajeev Singh, IIT (BHU), Varanasi (May 2019- May 2020)
   * Theoretically analyzed tight binding and cavity QED lattices modelled as inter-acting bosonic qubits medium with photonic baths using the truncated Heisenberg-Langevin equations.
   * Studied the steady-state photon transport through this model at various parameters.
   * Built approximate models for the systems using the quasi-classical and themean-field approximation methods.
@@ -37,7 +37,7 @@ Supervisor: Dr. Rajeev Singh, IIT (BHU), Varanasi (May 2019- May 2020)
 
 * <strong>MASTERS THESIS|</strong> *Characterization of Thermophilic bacteria from Manikaranhot springs.*
 
-Supervisor: Dr. Ashish Kumar Singh, IIT (BHU), Varanasi (January 2019- May 2020)
+	Supervisor: Dr. Ashish Kumar Singh, IIT (BHU), Varanasi (January 2019- May 2020)
   * Determining the growth characteristics of the unknown bacteria sample.
   * Determining the various bio-chemical characteristics of the bacteria.
   * Isolating the genomic DNA of the bacteria and acquire its sequence for further characterization.
