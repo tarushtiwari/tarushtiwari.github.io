@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'View in PDF')">PDF</button>
+</div>
 
 {% include base_path %}
 
