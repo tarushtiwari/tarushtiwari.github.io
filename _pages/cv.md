@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+*University of Massachusetts Lowell, MA, United States*
+Ph.D. in Physics.
+
+*Indian Institute of Technology (Banaras Hindu University), Varanasi (U.P.), India*
+Integrated Dual Degree (B. Tech. and M.Tech.) in Biochemical Engineering and Biotechnology.
 
 Work experience
 ======
@@ -29,8 +32,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Python
+* Julia
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
@@ -40,12 +43,6 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
