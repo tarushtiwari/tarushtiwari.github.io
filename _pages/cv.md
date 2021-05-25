@@ -10,29 +10,36 @@ redirect_from:
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'View in PDF')">PDF</button>
 </div>
-<hr>
+<p>&nbsp;</p> 
+
 {% include base_path %}
 
 Education
 ======
 *University of Massachusetts Lowell, MA, United States*
 ------
+
 Ph.D. in Physics.
+
 *Indian Institute of Technology (Banaras Hindu University), Varanasi (U.P.), India*
 ------
+
 Integrated Dual Degree (B. Tech. and M.Tech.) in Biochemical Engineering and Biotechnology.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Steady-state photon transport in QED lattices.
+Project under Dr. Rajeev Singh, IIT (BHU), Varanasi ()
+  * Theoretically analyzed tight binding and cavity QED lattices modelled as inter-acting bosonic qubits medium with photonic baths using the truncated Heisenberg-Langevin equations.
+  * Studied the steady-state photon transport through this model at various parameters.
+  * Built approximate models for the systems using the quasi-classical and themean-field approximation methods.
+  * Suggested modifications in the approximate analyses to get better results.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Characterization of Thermophilic bacteria from Manikaranhot springs.
+Project under Dr. Ashish Kumar Singh, IIT (BHU), Varanasi ()
+  * Determining the growth characteristics of the unknown bacteria sample.
+  * Determining the various bio-chemical characteristics of the bacteria.
+  * Isolating the genomic DNA of the bacteria and acquire its sequence for further characterization.
   
 Skills
 ======
