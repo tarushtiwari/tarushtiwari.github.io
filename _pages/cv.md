@@ -6,20 +6,18 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<hr>
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'View in PDF')">PDF</button>
 </div>
-
+<hr>
 {% include base_path %}
 
 Education
 ======
-
 *University of Massachusetts Lowell, MA, United States*
 ------
 Ph.D. in Physics.
-
 *Indian Institute of Technology (Banaras Hindu University), Varanasi (U.P.), India*
 ------
 Integrated Dual Degree (B. Tech. and M.Tech.) in Biochemical Engineering and Biotechnology.
