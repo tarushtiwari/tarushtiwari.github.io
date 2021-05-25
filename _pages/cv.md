@@ -8,9 +8,9 @@ redirect_from:
 ---
 <hr>
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'View in PDF')">PDF</button>
+  <button class="tablinks" onclick="openCity(event, 'PDF')">PDF</button>
 </div>
-<div id="London" class="tabcontent">
+<div id="PDF" class="tabcontent">
   (https://astroiitbhu.in/)
 </div>
 <p>&nbsp;</p> 
