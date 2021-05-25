@@ -10,6 +10,9 @@ redirect_from:
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'View in PDF')">PDF</button>
 </div>
+<div id="London" class="tabcontent">
+  (https://astroiitbhu.in/)
+</div>
 <p>&nbsp;</p> 
 
 {% include base_path %}
@@ -17,11 +20,11 @@ redirect_from:
 Education
 ======
 
-*University of Massachusetts Lowell, MA, United States*
+* *University of Massachusetts Lowell, MA, United States*
 ------
 Ph.D. in Physics.
 
-*Indian Institute of Technology (Banaras Hindu University), Varanasi (U.P.), India*
+* *Indian Institute of Technology (Banaras Hindu University), Varanasi (U.P.), India*
 ------
 Integrated Dual Degree (B. Tech. and M.Tech.) in Biochemical Engineering and Biotechnology.(<strong> Graduated in 2020</strong>)
 
@@ -33,7 +36,7 @@ Research experience
   * Studied the steady-state photon transport through this model at various parameters.
   * Built approximate models for the systems using the quasi-classical and themean-field approximation methods.
   * Suggested modifications in the approximate analyses to get better results.
-
+<br>
 * <strong>Masters Thesis|</strong> *Characterization of Thermophilic bacteria from Manikaranhot springs.(January 2019- May 2020)*<br>
 	Supervisor: Dr. Ashish Kumar Singh, IIT (BHU), Varanasi 
   * Determining the growth characteristics of the unknown bacteria sample.
@@ -43,18 +46,17 @@ Research experience
 Work experience
 ======
 * <strong>Internship|</strong> *Research Analyst Intern, The Genebox, Mumbai.(May 2019- May 2020)*<br>
-  * Conducted research on the current state of literature related traits of interestin different databases.  * Studied the steady-state photon transport through this model at various parameters.
+  * Conducted research on the current state of literature related traits of interestin different databases.  
   * Understand and extract relevant medical terminologies and functionalities inhuman genetics information.
   * Review, update, development and maintenance of the database.
 
 Skills
 ======
-* Python
-* Julia
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages:
+  * Python
+  * Julia
+
+
 
 Publications
 ======
