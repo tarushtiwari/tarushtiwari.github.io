@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <hr>
-<p  style="font-size: smaller;" ><a  href="{{ 'files/TarushTiwariCV.pdf' | absolute_url }}" class = "button special icon fa-file-pdf-o" target="_blank" rel="noopener noreferrer" >&nbsp;View in PDF Format</a></p>
+<p  style="font-size: smaller;" ><a  href="{{ 'files/TarushTiwariCV.pdf' | absolute_url }}" class = "button special icon fa-file-pdf-o" target="_blank" rel="noopener noreferrer" >&nbsp;PDF</a></p>
 
 <p>&nbsp;</p> 
 
@@ -22,7 +22,7 @@ Ph.D. in Physics.
 
 * *Indian Institute of Technology (Banaras Hindu University), Varanasi (U.P.), India*
 ------
-Integrated Dual Degree (B. Tech. and M.Tech.) in Biochemical Engineering and Biotechnology.(<strong> Graduated in 2020</strong>)
+Integrated Dual Degree (B. Tech. and M.Tech.) in Biochemical Engineering and Biotechnology.(<strong>Graduated in 2020</strong>)
 
 Research experience
 ======
