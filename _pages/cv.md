@@ -8,11 +8,9 @@ redirect_from:
 ---
 <hr>
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'PDF')">PDF</button>
+  <button class="tablinks" onclick="openCity(https://astroiitbhu.in/)">PDF</button>
 </div>
-<div id="PDF" class="tabcontent">
-  (https://astroiitbhu.in/)
-</div>
+
 <p>&nbsp;</p> 
 
 {% include base_path %}
