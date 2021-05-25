@@ -27,7 +27,7 @@ Integrated Dual Degree (B. Tech. and M.Tech.) in Biochemical Engineering and Bio
 
 Research experience
 ======
-* <strong>PROJECT|</strong> *Steady-state photon transport in QED lattices.*
+* <strong>PROJECT|</strong> *Steady-state photon transport in QED lattices.*<br>
 	Supervisor: Dr. Rajeev Singh, IIT (BHU), Varanasi (May 2019- May 2020)
   * Theoretically analyzed tight binding and cavity QED lattices modelled as inter-acting bosonic qubits medium with photonic baths using the truncated Heisenberg-Langevin equations.
   * Studied the steady-state photon transport through this model at various parameters.
