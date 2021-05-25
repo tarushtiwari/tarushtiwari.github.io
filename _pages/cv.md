@@ -7,9 +7,7 @@ redirect_from:
   - /resume
 ---
 <hr>
-<div class="tab">
-  <button class="tablinks" onclick="openCity(https://astroiitbhu.in/)">PDF</button>
-</div>
+<p  style="font-size: smaller;" ><a  href="{{ 'files/TarushTiwariCV.pdf' | absolute_url }}" class = "button special icon fa-file-pdf-o" target="_blank" rel="noopener noreferrer" >&nbsp;View in PDF Format</a></p>
 
 <p>&nbsp;</p> 
 
