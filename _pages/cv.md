@@ -18,17 +18,15 @@ Education
 ======
 *University of Massachusetts Lowell, MA, United States*
 ------
-
 Ph.D. in Physics.
 
 *Indian Institute of Technology (Banaras Hindu University), Varanasi (U.P.), India*
 ------
-
 Integrated Dual Degree (B. Tech. and M.Tech.) in Biochemical Engineering and Biotechnology.
 
 Work experience
 ======
-* PROJECT| Steady-state photon transport in QED lattices.
+* <strong>PROJECT|</strong> *Steady-state photon transport in QED lattices.*
 -----
 Supervisor: Dr. Rajeev Singh, IIT (BHU), Varanasi ()
   * Theoretically analyzed tight binding and cavity QED lattices modelled as inter-acting bosonic qubits medium with photonic baths using the truncated Heisenberg-Langevin equations.
