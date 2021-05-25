@@ -16,6 +16,7 @@ redirect_from:
 
 Education
 ======
+
 *University of Massachusetts Lowell, MA, United States*
 ------
 Ph.D. in Physics.
