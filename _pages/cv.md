@@ -28,15 +28,17 @@ Integrated Dual Degree (B. Tech. and M.Tech.) in Biochemical Engineering and Bio
 
 Work experience
 ======
-* Steady-state photon transport in QED lattices.
-Project under Dr. Rajeev Singh, IIT (BHU), Varanasi ()
+* PROJECT| Steady-state photon transport in QED lattices.
+-----
+Supervisor: Dr. Rajeev Singh, IIT (BHU), Varanasi ()
   * Theoretically analyzed tight binding and cavity QED lattices modelled as inter-acting bosonic qubits medium with photonic baths using the truncated Heisenberg-Langevin equations.
   * Studied the steady-state photon transport through this model at various parameters.
   * Built approximate models for the systems using the quasi-classical and themean-field approximation methods.
   * Suggested modifications in the approximate analyses to get better results.
 
-* Characterization of Thermophilic bacteria from Manikaranhot springs.
-Project under Dr. Ashish Kumar Singh, IIT (BHU), Varanasi ()
+* MASTERS THESIS| Characterization of Thermophilic bacteria from Manikaranhot springs.
+-----
+Supervisor: Dr. Ashish Kumar Singh, IIT (BHU), Varanasi ()
   * Determining the growth characteristics of the unknown bacteria sample.
   * Determining the various bio-chemical characteristics of the bacteria.
   * Isolating the genomic DNA of the bacteria and acquire its sequence for further characterization.
