@@ -1,6 +1,6 @@
 ---
 title: "Photon transport in different 1D QED lattices"
-collection: research
+collection: publications
 permalink: /research/2021-5-28-Photon-transport-1D-QED
 excerpt: 'This paper is about propagation of light through different qubit lattices. Currently under review in the journal Physical Review A.'
 date: 2020-10-28
