@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"<form><button formaction="https://tarushtiwari.github.io/files/TarushTiwariCV.pdf">PDF</button></form>
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 <hr>
 
+<form>
+  <button formaction="https://tarushtiwari.github.io/files/TarushTiwariCV.pdf">PDF</button>
+</form>
 
 {% include base_path %}
 
