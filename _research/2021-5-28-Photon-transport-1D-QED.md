@@ -1,11 +1,11 @@
 ---
-title: "Photon transport in different 1D QED lattices"
+title: "Teaching Assistant"
 collection: teaching
-permalink: /research/2021-5-28-Photon-transport-1D-QED
-excerpt: 'This paper is about propagation of light through different qubit lattices. Currently under review in the journal Physical Review A.'
-date: 2020-10-28
-venue: 'arXiv'
-paperurl: 'https://arxiv.org/abs/2010.14935'
+type: "Undergraduate course"
+permalink: /teaching/2017-Fall-teaching
+venue: "Indian Institute of Technology (BHU), School of Biochemical Engineering"
+date: 2017-08-01
+location: "Varanasi, India"
 ---
 
-The research work is about blah blah
+Served as the nuvjbdbvv UG Teaching Assistant under Prof. S. K. Srivastava for the junior undergraduates and conducted weekly tutorials for the course of Enzyme Engineering.
