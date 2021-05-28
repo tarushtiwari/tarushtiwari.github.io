@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 <hr>
-<p  style="font-size: smaller;" ><a  href="{{ 'files/TarushTiwariCV.pdf' | absolute_url }}" class = "button special icon fa-file-pdf-o" target="_blank" rel="noopener noreferrer" >&nbsp;PDF</a></p>
-<p>&nbsp;</p> 
+`[PDF]('files/TarushTiwariCV.pdf')`
 {% include base_path %}
 
 Education
