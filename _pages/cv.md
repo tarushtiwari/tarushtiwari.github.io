@@ -46,10 +46,11 @@ Work experience
 
 Skills
 ======
-* Programming Languages:
-  * Python
-  * Julia
+* Programming Languages: C, C++, Julia, Python
 
+* Softwares: : MATLAB, LATEX, Jupyter Notebook, Mathematica.
+
+* Other Libraries: Scikit-learn, Pandas, Scipy, SymPy, SymEngine
 
 
 Publications
@@ -64,6 +65,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
