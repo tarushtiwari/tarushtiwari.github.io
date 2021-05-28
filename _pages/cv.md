@@ -7,7 +7,10 @@ redirect_from:
   - /resume
 ---
 <hr>
-`[PDF]('files/TarushTiwariCV.pdf')`
+<form>
+  <button formaction="http://stackoverflow.com">Go to Stack Overflow!</button>
+</form>
+ 
 {% include base_path %}
 
 Education
