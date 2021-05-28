@@ -8,9 +8,9 @@ redirect_from:
 ---
 <hr>
 <form>
-  <button formaction="http://stackoverflow.com">Go to Stack Overflow!</button>
+  <button formaction="files/TarushTiwariCV.pdf">PDF</button>
 </form>
- 
+
 {% include base_path %}
 
 Education
