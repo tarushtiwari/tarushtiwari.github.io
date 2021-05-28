@@ -7,10 +7,9 @@ redirect_from:
   - /resume
 ---
 <hr>
-<form>
-  <button formaction="files/TarushTiwariCV.pdf">PDF</button>
-</form>
 
+<p  style="font-size: smaller;" ><a  href="{{ 'files/TarushTiwariCV.pdf' | absolute_url }}" class = "button special icon fa-file-pdf-o" target="_blank" rel="noopener noreferrer" >&nbsp;PDF</a></p>
+<p>&nbsp;</p> 
 {% include base_path %}
 
 Education
